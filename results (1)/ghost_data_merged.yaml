@@ -1,0 +1,12 @@
+names:
+- Hole
+- Knot
+- Line
+- Stain
+nc: 4
+train:
+- /kaggle/input/datasets/hiruthiksudhakar/fabric-dataset/train/images
+- /kaggle/input/datasets/hiruthiksudhakar/fabric-dataset-2/lim.v3i.yolo26/train/images
+val:
+- /kaggle/input/datasets/hiruthiksudhakar/fabric-dataset/valid/images
+- /kaggle/input/datasets/hiruthiksudhakar/fabric-dataset-2/lim.v3i.yolo26/valid/images
